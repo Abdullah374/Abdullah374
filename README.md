@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah374" alt="abdullah374" /></a> </p>
 
-- 🔭 I’m currently working on **Tourist Website**
+- 🔭 I’m currently working on **DENTXAI**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **YOLO**
 
 - 💬 Ask me about **django**
 
