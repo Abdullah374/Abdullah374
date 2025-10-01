@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah374" alt="abdullah374" /></a> </p>
 
-- 🔭 I’m currently working on **DENTXAI**
+- 🔭 I’m currently working on **DENTXAI: AN AI Based Dental Disease Detection System**
 
 - 🌱 I’m currently learning **YOLO**
 
