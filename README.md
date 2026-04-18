@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ibrahim</h1>
-<h3 align="center">AI & Multi-Agent Systems Engineer | Computer Science @ 2026</h3>
+<h3 align="center">AI Engineer | Computer Science @ 2026</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-ibrahim-157522269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a final-year Computer Science student and **AI Engineer Intern** specializing in building autonomous, multi-agent systems and high-precision computer vision pipelines. I focus on creating "local-first" AI solutions that prioritize data privacy and resource efficiency.
+I am a final-year Computer Science student and **AI Engineer** specializing in building autonomous, multi-agent systems and high-precision computer vision pipelines. I focus on creating "local-first" AI solutions that prioritize data privacy and resource efficiency.
 
 - 🛠️ **Current Focus:** Building agentic workflows with **LangGraph** and **Multi-Agent Architectures**.
 - 🏥 **Research:** Collaborating with **AIIMS Nagpur** on DENTXAI, an AI system for dental disease detection.
