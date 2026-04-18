@@ -49,8 +49,7 @@ I am a final-year Computer Science student and **AI Engineer Intern** specializi
 
 ### 💬 Let's Connect
 - **LinkedIn:** [Abdullah Ibrahim](https://www.linkedin.com/in/abdullah-ibrahim-157522269/)
-- **Portfolio/Blog:** [Your YouTube or Website Link]
-- **Discord:** `[Your Discord Handle]`
+- **Portfolio/Blog:** www.youtube.com/@ThamesBelieve
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullah374&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
