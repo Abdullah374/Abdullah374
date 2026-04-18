@@ -14,7 +14,7 @@ I am a final-year Computer Science student and **AI Engineer Intern** specializi
 - 🛠️ **Current Focus:** Building agentic workflows with **LangGraph** and **Multi-Agent Architectures**.
 - 🏥 **Research:** Collaborating with **AIIMS Nagpur** on DENTXAI, an AI system for dental disease detection.
 - 🔍 **Specialization:** Object detection (YOLO), Document Verification (BFSI/HR), and Product Intelligence.
-- ⚙️ **Hardware:** Prototyping IoT solutions with Arduino and optimizing local LLM execution.
+- ⚙️ **Hardware:** Prototyping IoT solutions with Arduino
 
 ---
 
@@ -22,11 +22,10 @@ I am a final-year Computer Science student and **AI Engineer Intern** specializi
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & Agents** | LangChain, LangGraph, Multi-Agent Systems, OpenAI, Local LLMs |
+| **AI & Agents** | LangChain, LangGraph, Langmem, Multi-Agent Systems,  Local LLMs |
 | **Computer Vision** | YOLO (v8-v11), OpenCV, Image Segmentation, Pascal VOC |
-| **Backend & Tools** | Python, Django, SQL, Git, Docker, Streamlit |
-| **Data & Dev** | Vector Databases, LangSmith, Cursor, Scraping (BeautifulSoup/Selenium) |
-| **Hardware** | Arduino, I2C Sensors, Edge AI Optimization |
+| **Backend & Tools** | Python, Django, SQL|
+| **Hardware** | IOT Automation |
 
 ---
 
@@ -36,6 +35,7 @@ I am a final-year Computer Science student and **AI Engineer Intern** specializi
 - **Product Intelligence Chatbot** – A multi-agent e-commerce sales expert using SQL, Vector, and Internet agents.
 - **Dynamic Document Verification** – End-to-end vision pipeline for BFSI regulatory compliance and verification.
 - **Mortgage Underwriting Agent** – Automated extraction and validation of complex financial documents.
+- **Automated Waste Management System - Automated Waste Water Management System (prototype)
 
 ---
 
